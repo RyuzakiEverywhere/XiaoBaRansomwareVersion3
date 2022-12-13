@@ -1,0 +1,5 @@
+﻿  cryptopp_ransomware_xiaoba.cpp
+C:\Users\Администратор\source\repos\XiaoBaRansomwareVersion3\XiaoBaRansomwareVersion3\MainPayload\cryptopp_ransomware_xiaoba.cpp(110,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  xiaoba.cpp
+  Generating Code...
+  XiaoBaRansomwareVersion3.vcxproj -> C:\Users\Администратор\source\repos\XiaoBaRansomwareVersion3\x64\Debug\XiaoBaRansomwareVersion3.exe
